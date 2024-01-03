@@ -15,7 +15,7 @@ Me chamo Yann Gabriel e bem-vindos ao meu GitHub!❤️‍🩹
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannGabriel&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannGabriel&show_progress=true)
 
 ### Contatos
 
