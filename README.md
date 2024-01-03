@@ -3,7 +3,7 @@ Me chamo Yann Gabriel e bem-vindos ao meu GitHub!❤️‍🩹
 
 •Estudante de programação🖥️
 <br>
-•Fluente em na linguagem inglesa
+•Fluente em Inglês e Português
 <br>
 •Procurando sempre aprender mais!🤓
 <br>
@@ -16,3 +16,6 @@ Me chamo Yann Gabriel e bem-vindos ao meu GitHub!❤️‍🩹
 <br>
 
 ### Contatos
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511946263200)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yanndev)
