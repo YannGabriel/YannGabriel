@@ -8,7 +8,7 @@ Me chamo Yann Gabriel e bem-vindos ao meu GitHub!❤️‍🩹
 •Procurando sempre aprender mais!🤓
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannGabriel&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Tecnologias que uso:
 
