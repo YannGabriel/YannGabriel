@@ -40,6 +40,9 @@ Conheça meu portfólio: [Acesse aqui!](https://portfolio-yanngabriels-projects.
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannGabriel&layout=compact&theme=radical)
+
+
 ## Projetos em destaque
 
 ✨ Confira alguns projetos que desenvolvi:
