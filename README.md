@@ -1,4 +1,4 @@
-# Olá, eu sou o Yann Gabriel! 👋
+# 👋 Olá, eu sou o Yann Gabriel!
 
 🎯 **Desenvolvedor Web | Entusiasta de Ciência da Computação**  
 🚀 **Construindo a web, uma linha de código por vez.**
@@ -53,7 +53,7 @@ Conheça meu portfólio: [Acesse aqui!](https://portfolio-yanngabriels-projects.
 ✨ Confira alguns projetos que desenvolvi:
 
 - **Taskify:** Gerenciador de tarefas rápido e intuitivo.  
-- **Brazillian Grill House:** Restaurante de carnes e acompanhamentos com interface moderna.  
+- **Brazilian Grill House:** Restaurante de carnes e acompanhamentos com interface moderna.  
 - **Geovisit:** Localize o melhor destino para sua viagem.
 
 _E mais projetos disponíveis no meu portfólio!_
